@@ -190,12 +190,15 @@
     cursor: pointer;
   }
 
-  
+  .header_content-burger{
+	   -webkit-tap-highlight-color: transparent;
+  }
 
   .header_content-burger button{
     border: 0px;
     background: transparent;
     cursor: pointer;
+	  -webkit-tap-highlight-color: transparent;
   }
 
 	.header_content-burger button:active{
