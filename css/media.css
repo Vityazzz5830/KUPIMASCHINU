@@ -198,6 +198,10 @@
     cursor: pointer;
   }
 
+	.header_content-burger button:active{
+    -webkit-tap-highlight-color: transparent;
+  }
+
   .main__container-popup {
     padding-left: 15px;
     padding-right: 15px;
